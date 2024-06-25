@@ -3,7 +3,7 @@ A personal record open to public view where i will keep on updating and adding n
 ===============================================================================================================================================================
 STATUS: ONGOING\
 CURRENTLY WORKING ON: PROBLEM 1\
-CURRENT MILESTONE GOAL: PROBLEM 100 \
+CURRENT MILESTONE GOAL: PROBLEM 100 
 ===============================================================================================================================================================
 SOLVED PROBLEM LIST -
 P.1: Multiples of 3 & 5
